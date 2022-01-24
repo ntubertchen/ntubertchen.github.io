@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 服務
-permalink: /服務/
+title: Service
+permalink: /Service/
 # image: '/images/01-2.jpg'
 ---
 ## 履歷
