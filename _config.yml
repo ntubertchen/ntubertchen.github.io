@@ -15,12 +15,12 @@ author:
   author__bio: 畢業於巴黎高等商學院HEC Paris，獲得超過110萬台幣獎學金。已替學校面試將近10位來自世界各地的申請者與超過十年顧問經驗。
   author__avatar: '/images/home-01.jpg'
 
-social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-youtube", link: "https://youtube.com"}
+# social:
+# - {icon: "ion-logo-twitter", link: "https://twitter.com"}
+# - {icon: "ion-logo-facebook", link: "https://facebook.com"}
+# - {icon: "ion-logo-instagram", link: "https://instagram.com"}
+# - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+# - {icon: "ion-logo-youtube", link: "https://youtube.com"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -36,10 +36,10 @@ hero:
 
 #-------------------------------
 # Newsletter
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
-mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-mailchimp__input__text: Subscribe here
-mailchimp__button__text: Get a new tip
+# mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+# mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+# mailchimp__input__text: Subscribe here
+# mailchimp__button__text: Get a new tip
 
 
 #-------------------------------

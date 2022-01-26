@@ -2,14 +2,14 @@
 layout: post
 title:  MBA懶人包10之6 一MBA畢業後留在歐洲工作
 description: 很多人，包括我，是因為想在歐洲工作才決定去歐洲...
-date:   2020-11-06 15:01:35 +0300
-image:  '/images/05.jpg'
+date:   2021-06-06 15:01:35 +0300
+image:  '/images/new06-1.jpg'
 <!-- video_embed: https://www.youtube.com/embed/gYO1uk7vIcc -->
-tags:   [workflow, hobby]
+tags:   []
 ---
 很多人，包括我，是因為想在歐洲工作才決定去歐洲念書，有了當地名校加持，歐洲公司才比較有可能看中你的履歷，畢竟這是一個很現實的就業市場。就業管道何其多，今天就來分享MBA的同學是怎麼找到工作的。
 
-![Sea]({{site.baseurl}}/images/new06-1.jpg)
+<!-- ![Sea]({{site.baseurl}}/images/new06-1.jpg) -->
 
 實習。
 

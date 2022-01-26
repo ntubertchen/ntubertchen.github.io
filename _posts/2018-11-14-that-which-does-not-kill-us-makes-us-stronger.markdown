@@ -2,9 +2,9 @@
 layout: post
 title:  MBA懶人包10之1 – 到底要花多少錢錢
 description: MBA的學費真的不便宜...
-date:   2020-11-14 15:01:35 +0300
-image:  '/images/new01.jpg'
-tags:   [workflow, hobby, study]
+date:   2021-01-14 15:01:35 +0300
+image:  '/images/new01-1.jpg'
+tags:   []
 ---
 MBA懶人包10之1 – 到底要花多少錢錢$？？？
 
