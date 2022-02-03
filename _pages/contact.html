@@ -11,7 +11,8 @@ image: '/images/contact.jpg'
       <p class="page-description">{{site.contact.description}}</p>
     {% endif %}
   </div>
-  <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">
+  <form class="form" action="https://formspree.io/f/xyyoeplp" method="POST">
+    <!-- <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST"> -->
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-name">姓名</label>
       <input class="form__input" id="form-name" type="text" name="name" placeholder="姓名" required>
@@ -22,27 +23,27 @@ image: '/images/contact.jpg'
     </div>
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-text">Line ID</label>
-      <textarea class="form__input" id="form-text" name="text" rows="1" placeholder="Line ID" required></textarea>
+      <textarea class="form__input" id="form-text" name="lineID" rows="1" placeholder="Line ID" required></textarea>
     </div>
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-text">GMAT/GRE成績</label>
-      <textarea class="form__input" id="form-text" name="text" rows="1" placeholder="GMAT/GRE" required></textarea>
+      <textarea class="form__input" id="form-text" name="GAMT/GRE" rows="1" placeholder="GMAT/GRE" required></textarea>
     </div>
     <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-text">TOEFL成績</label>
-      <textarea class="form__input" id="form-text" name="text" rows="1" placeholder="TOEFL/IELTS" required></textarea>
+      <label class="form__label screen-reader-text" for="form-text">TOEFL/IELTS成績</label>
+      <textarea class="form__input" id="form-text" name="TOEFL/IELTS成績" rows="1" placeholder="TOEFL/IELTS" required></textarea>
     </div>
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-text">想申請學校</label>
-      <textarea class="form__input" id="form-text" name="text" rows="1" placeholder="想申請學校" required></textarea>
+      <textarea class="form__input" id="form-text" name="想申請學校" rows="1" placeholder="想申請學校" required></textarea>
     </div>
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-text">從哪裡得知Angela</label>
-      <textarea class="form__input" id="form-text" name="text" rows="1" placeholder="從哪裡得知Angela" required></textarea>
+      <textarea class="form__input" id="form-text" name="從哪裡得知Angela" rows="1" placeholder="從哪裡得知Angela" required></textarea>
     </div>
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-text">備註</label>
-      <textarea class="form__input" id="form-text" name="text" rows="1" placeholder="備註" required></textarea>
+      <textarea class="form__input" id="form-text" name="備註" rows="1" placeholder="備註" required></textarea>
     </div>
     <div class="form__group">
       <button class="button button--primary" type="submit">Send Message</button>
