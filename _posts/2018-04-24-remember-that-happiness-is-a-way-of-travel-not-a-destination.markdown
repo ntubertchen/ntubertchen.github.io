@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  MBA懶人包10之9 一我為什麼要念MBA
+title:  MBA懶人包9之9 一我為什麼要念MBA
 description: 想申請國外MBA的原因百百種，但仔細觀察大概可以分成下列幾種原因...
 date:   2021-09-24 15:01:35 +0300
 image:  '/images/new09-0.jpg'

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  MBA懶人包10之5 一MBA一日生活長什麼樣？
+title:  MBA懶人包9之5 一MBA一日生活長什麼樣？
 description: 很多人可能會工作一陣子覺得職場疲累、想換個環境好好放鬆、充實自己，因此決定念MBA讓...
 date:   2021-05-07 15:01:35 +0300
 image:  '/images/new05.jpg'

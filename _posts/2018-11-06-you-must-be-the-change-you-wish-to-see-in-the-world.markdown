@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  MBA懶人包10之6 一MBA畢業後留在歐洲工作
+title:  MBA懶人包9之6 一MBA畢業後留在歐洲工作
 description: 很多人，包括我，是因為想在歐洲工作才決定去歐洲...
 date:   2021-06-06 15:01:35 +0300
 image:  '/images/new06-1.jpg'

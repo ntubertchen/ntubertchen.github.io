@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  MBA懶人包10之3 一畢業起薪六百萬！？
+title:  MBA懶人包9之3 一畢業起薪六百萬！？
 description: MBA是筆動輒好幾百萬的投資，如果沒有相對應的回報，很少人願意賭身家般地把錢雙手...
 date:   2021-03-11 15:01:35 +0300
 image:  '/images/new03.jpg'

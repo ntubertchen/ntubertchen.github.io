@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  MBA懶人包10之7 一美國、歐洲，兜幾
+title:  MBA懶人包9之7 一美國、歐洲，兜幾
 description: 假如你還在猶豫要去美國還是歐洲念MBA，這邊提供幾個切入點...
 date:   2021-07-31 15:01:35 +0300
 image:  '/images/new07-0.jpg'
